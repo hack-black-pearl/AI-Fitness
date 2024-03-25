@@ -14,15 +14,15 @@
 
 ## Screenshots
 
-![Image](../public/compare.jpg)
-![Image](../public/Dasboardofapp.jpeg.jpg)
-![Image](../public/MixCollage-31-Dec-2023-01-45-AM-1504.jpg)
-![Image](../public/notify.jpg)
-![Image](../public/performancescreen.jpeg.jpg)
-![Image](../public/targetworkout.jpg)
-![Image](../public/upcommingworkout.jpg)
-![Image](../public/UserProfile.jpg)
-![Image](../public/workout.jpg)
+![Image](./public/compare.jpg)
+![Image](./public/Dasboardofapp.jpeg.jpg)
+![Image](./public/MixCollage-31-Dec-2023-01-45-AM-1504.jpg)
+![Image](./public/notify.jpg)
+![Image](./public/performancescreen.jpeg.jpg)
+![Image](./public/targetworkout.jpg)
+![Image](./public/upcommingworkout.jpg)
+![Image](./public/UserProfile.jpg)
+![Image](./public/workout.jpg)
 
 ## Tech Used
 
